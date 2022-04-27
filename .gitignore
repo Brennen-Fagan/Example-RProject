@@ -11,6 +11,9 @@
 *.RData
 *.RDS
 
+# Also ignore anything that goes in the Data folder.
+Data/
+
 # Example code in package build process
 *-Ex.R
 
